@@ -1,0 +1,104 @@
+.product-image{
+    height: 250px;
+    width: 250px;
+    margin: 0px auto;
+}
+.productCardWrapper{
+    width: 100%;
+}
+
+.shimmerCard{
+    
+    border: none;
+}
+.placeholder-product-card{
+    height: 250px;
+}
+
+.login-btn{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+.buttonsStyle{
+    margin-bottom: 20px;
+}
+.cartImage{
+    height: 100px;
+    width: 100px;
+}
+
+#ProductSpecWrapper{
+    width: 60%;
+    margin: 40px auto;
+}
+.SpecWra-img{
+    height: 400px;
+    width: 400px;
+}
+.sho-Title{
+    margin-top: 60px;
+}
+.formContainer{
+    background-color: #f2f2f2;
+    justify-content: center;
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.formheader{
+    width: 100%;
+    background-color: rgb(73, 43, 17);
+    padding: 1px 20px;
+    color: white;
+}
+input[type=text],select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password],select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.loginbtn{
+    width: 30%;
+    background-color: orangered;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.loginbtn:hover{
+    background-color: orangered;
+}
+.formbtn{
+    width: 30%;
+    background-color: rgb(81, 177, 212);
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.formbtn:hover{
+    background-color:  rgb(81, 177, 212);
+}
+ 
